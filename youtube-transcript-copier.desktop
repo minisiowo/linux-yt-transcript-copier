@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=YouTube Transcript Copier
+Comment=Pobiera transkrypcje filmu z linku w schowku
+Exec=[to replace]
+Terminal=false
+Categories=Utility;
+Icon=[to replace]
+StartupNotify=false
