@@ -30,3 +30,6 @@ Thumbs.db
 .coverage
 .coverage.*
 htmlcov/
+
+# YouTube cookies for yt-dlp (never commit)
+cookies.txt

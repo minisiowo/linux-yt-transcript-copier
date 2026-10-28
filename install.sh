@@ -47,7 +47,7 @@ create_venv() {
 
 install_python_dependencies() {
     "$VENV_DIR/bin/pip" install --upgrade pip
-    "$VENV_DIR/bin/pip" install youtube-transcript-api pyperclip
+    "$VENV_DIR/bin/pip" install --upgrade -r "$PROJECT_DIR/requirements.txt"
 }
 
 install_desktop_entry() {
